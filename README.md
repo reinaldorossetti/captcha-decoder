@@ -10,9 +10,10 @@ Date: July 22nd, 2016
 OS: Mac
 
 ```
+# MAC
 brew install imagemagick
 brew install tesseract --all-languages
-# windows
+# Windows and MAC
 pip install Pillow
 pip install pytesseract
 ```
