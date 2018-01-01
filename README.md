@@ -30,6 +30,9 @@ https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe<br>
 Windows path:
 "C:\Program Files (x86)\Tesseract-OCR"
 
+In Windows need copy language pack from link below to "C:\Program Files (x86)\Tesseract-OCR\tessdata"
+https://github.com/tesseract-ocr/tessdata
+
 ### Tools:
 
 1. Tesseract
