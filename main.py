@@ -8,11 +8,11 @@ def main():
     im = iteration.iterate(im, 2)
 
     # comment it out to see the actual processed image
-    # im.show()
+    im.show()
 
     convert_to_text.get_string_from_image(im)
     text = convert_to_text.get_string_from_image(im)
-    print text
+    print(text)
 
 
 if __name__ == "__main__":
