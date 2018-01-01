@@ -24,11 +24,12 @@ sudo apt-get install tesseract-ocr-eng sudo apt-get install tesseract-ocr-por
 pip install Pillow
 pip install pytesseract
 ```
+### Windows Installation:<br>
 Need Install tesseract windows executable:<br>
 download and install:<br>
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe<br>
 ** Need add path of tesseract in environment variable path.<br>
-windows path:
+Windows path:
 "C:\Program Files (x86)\Tesseract-OCR"
 
 ### Tools:
@@ -37,6 +38,13 @@ windows path:
 2. Imagemagick
 3. Pytesseract
 4. Pillow,  PIL(python image processing)
+
+## Algorithm this example:
+
+1. Load target image
+2. Grayscale the image
+3. Grayscale image until noise are reduced to lower than certain percentage.
+4. Using tesseract to read out the images
 
 ## Instructions
 
