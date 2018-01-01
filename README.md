@@ -20,7 +20,7 @@ sudo apt update sudo apt install tesseract-ocr
 # sudo apt-get install tesseract-ocr-[lang]
 sudo apt-get install tesseract-ocr-eng sudo apt-get install tesseract-ocr-por
 
-# Windows and MAC
+# Windows, MAC or Linux.
 pip install Pillow
 pip install pytesseract
 ```
