@@ -17,10 +17,10 @@ brew install python2
 pip install Pillow
 pip install pytesseract
 ```
-Need Install tesseract:
-download and install:
-https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe
-** Need add path of tesseract in environment variable path.
+Need Install tesseract:<br>
+download and install:<br>
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe<br>
+** Need add path of tesseract in environment variable path.<br>
 windows path:
 "C:\Program Files (x86)\Tesseract-OCR"
 
