@@ -69,4 +69,5 @@ Iteration 3: ![](./screenshots/iteration_2.jpeg)
 2. [OCR on OS X with tesseract Raw](https://gist.github.com/henrik/1967035)
 3. http://www.pythonware.com/products/pil/
 4. https://github.com/UB-Mannheim/tesseract/wiki
+5. https://github.com/tesseract-ocr
 
