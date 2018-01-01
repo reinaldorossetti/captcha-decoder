@@ -7,17 +7,24 @@ Date: July 22nd, 2016
 
 ## Prerequisites
 
-OS: Mac
-
 ```
 # MAC
 brew install imagemagick
 brew install tesseract --all-languages
+
+# Linux
+sudo apt-get install imagemagick
+sudo apt update sudo apt install tesseract-ocr
+
+# The next thing to do is install the language packs. Tesseract is very robust and it can extract over 100 different languages, provided # the language packs are downloaded. You can download a particular language pack by using the generic command below:
+# sudo apt-get install tesseract-ocr-[lang]
+sudo apt-get install tesseract-ocr-eng sudo apt-get install tesseract-ocr-por
+
 # Windows and MAC
 pip install Pillow
 pip install pytesseract
 ```
-Need Install tesseract:<br>
+Need Install tesseract windows executable:<br>
 download and install:<br>
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe<br>
 ** Need add path of tesseract in environment variable path.<br>
