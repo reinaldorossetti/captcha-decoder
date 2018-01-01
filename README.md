@@ -12,8 +12,7 @@ OS: Mac
 ```
 brew install imagemagick
 brew install tesseract --all-languages
-
-brew install python2
+# windows
 pip install Pillow
 pip install pytesseract
 ```
@@ -44,4 +43,6 @@ Iteration 3: ![](./screenshots/iteration_2.jpeg)
 # References
 1. [python 识别验证码](https://segmentfault.com/q/1010000005686388)
 2. [OCR on OS X with tesseract Raw](https://gist.github.com/henrik/1967035)
+3. http://www.pythonware.com/products/pil/
+4. https://github.com/UB-Mannheim/tesseract/wiki
 
