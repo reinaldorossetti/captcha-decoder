@@ -1,9 +1,7 @@
 # OCR Image Processing 
 ## Read out the captcha
 
-Author: Lin Dong
-
-Date: July 22nd, 2016
+Author: Lin Dong; Modification to Python 3: Reinaldo Rossetti
 
 ## Prerequisites
 
