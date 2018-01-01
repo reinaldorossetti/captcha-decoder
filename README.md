@@ -24,6 +24,13 @@ https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.01.exe<br>
 windows path:
 "C:\Program Files (x86)\Tesseract-OCR"
 
+### Tools:
+
+1. Tesseract
+2. Imagemagick
+3. Pytesseract
+4. Pillow,  PIL(python image processing)
+
 ## Instructions
 
 Just run: `python main.py`
